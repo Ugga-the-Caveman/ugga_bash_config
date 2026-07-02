@@ -1,21 +1,53 @@
-MIT License
+UGGA-BASH-CONFIGURATION LICENSE v1.0
 
-Copyright (c) 2026 Ugga
+Copyright (c) 2026 ugga
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted, free of charge, to any person obtaining a copy of this software to:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+    use the software for any personal, educational or internal organizational purpose;
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+    study how the software works;
+
+    modify the software;
+
+    create derivative works;
+
+    copy and redistribute the original or modified software,
+
+provided that:
+
+    This license and the original copyright notice remain included.
+
+    Modified versions must clearly state that they have been modified.
+
+    The original authors must not be misrepresented as the authors of modified versions.
+
+Restrictions
+
+The following activities are prohibited without prior written permission from the copyright holder:
+
+    Selling this software.
+
+    Selling modified versions of this software.
+
+    Including this software, in whole or in part, in any commercial product or paid service.
+
+    Using this software to provide paid services where the software itself forms a substantial part of the service.
+
+    Removing or falsifying copyright notices.
+
+Ethical Restrictions
+
+Permission under this license is automatically terminated for any person or organization using this software:
+
+    for unlawful mass surveillance;
+
+    to knowingly violate internationally recognized human rights;
+
+    as part of weapons systems or military combat systems.
+
+Disclaimer
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
